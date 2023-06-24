@@ -47,7 +47,7 @@ was connected by the customer_ids
 ## DATA ANALYSIS & VISUALIZATION
 The dashboard contains 1 highly interactive page of the report. It was created to provide insights and answer the business pressing questions for the marketing team. 
 You can interact with the dashboard [here](https://conquers-my.sharepoint.com/:x:/g/personal/toby_conquers_onmicrosoft_com/ESh62gwe9b5CmwRIfc7uqhkB5N1a4rqq0p8CGBKE6urtCA?e=2ATlDX)).
-![](.jpg)
+![](Sprocket_dash.jpg)
 
 In addition to our analysis, the chart below shows the sales distribution by state and car ownership status.
 Our results indicate that customers from New South Wales are high-value customers as over 50% of sales come from that region. 
