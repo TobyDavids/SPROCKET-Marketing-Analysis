@@ -5,12 +5,12 @@
 SPROCKET CENTRAL is a mid-sized company selling bicycles and accessories.  Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction data. 
 The organization has a large dataset relating to its customers, but its team is unsure how to effectively analyze it to help optimize its marketing strategy. 
 
-The client provided US(KPMG) with 3 datasets:
+The client provided US(KPMG) with 3 datasets for analysis, and 1 dataset(New Customers) for predicting and Recommendation
 
-Customer Demographic 
-Customer Addresses
-Transactions data in the past 3 months
-New Customers
+- Customer Demographic 
+- Customer Addresses
+- Transactions data in the past 3 months
+- New Customers
 
 ## PROBLEM STATEMENT
 Provide data-driven Insights with existing sales, demography, and customers data to aid new marketing 
@@ -19,13 +19,13 @@ You decide to start the preliminary data exploration and identify ways to improv
 ## Tools Used
 To transform, analyze and provide insights, the following tools were used
 
-- Microsoft Excel
+- Microsoft Excel 365
 - Power Query
 - Power Pivot
 
 ## Skills Demonstrated
 - Data Manipulation
-Functions used (IFS AND functions, DATEDIF, Vlookups, Xmatch & Index Functions, LEFT, RIGHT, and Proper FUnctions)
+- Functions used (IFS AND functions, DATEDIF, COUNTIFS,Vlookups, Xmatch & Index Functions, LEFT, RIGHT, and Proper FUnctions)
 - Power Pivot Measures
 - Pivot Table Analyzers
 - Filters & Slicers use in Excel necessary for our analysis
@@ -64,4 +64,9 @@ For the marketing team to optimize sales performance and profitability, these ac
    should be highly prioritized
 3. Customers aged between 30- 50 and are in the mass customer segment should also be highly considered and sold to, as they have the best chance of bringing
    in profits, improved sales, and expansion.
-   
+
+### REFERENCES
+1. https://https://www.kaggle.com/datasets/adriandiazny/sprocket-central-mock-data
+2. https://www.techtarget.com/searchdatamanagement/definition/RFM-analysis#:~:text=What%20is%20RFM%20(recency%2C%20frequency%2C%20monetary)%20analysis%3F,and%20perform%20targeted%20marketing%20campaigns.
+
+Thank you so much for going through this. Merci
