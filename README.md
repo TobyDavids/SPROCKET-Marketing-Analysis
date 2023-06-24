@@ -1,5 +1,5 @@
 # SPROCKET- CENTRAL-Marketing-Analysis
-![](Sprocket.jpeg)
+![](Sprocket.jpeg) 
 
 ## INTRODUCTION
 SPROCKET CENTRAL is a mid-sized company selling bicycles and accessories.  Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. 
