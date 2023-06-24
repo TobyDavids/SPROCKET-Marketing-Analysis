@@ -47,7 +47,11 @@ was connected by the customer_ids
 ## DATA ANALYSIS & VISUALIZATION
 The dashboard contains 1 highly interactive page of the report. It was created to provide insights and answer the business pressing questions for the marketing team. 
 You can interact with the dashboard [here](https://conquers-my.sharepoint.com/:x:/g/personal/toby_conquers_onmicrosoft_com/ESh62gwe9b5CmwRIfc7uqhkB5N1a4rqq0p8CGBKE6urtCA?e=2ATlDX)).
-![](Sprocket_dashboard.jpg)
+![](.jpg)
+
+In addition to our analysis, the chart below shows the sales distribution by state and car ownership status.
+Our results indicate that customers from New South Wales are high-value customers as over 50% of sales come from that region. 
+![](state_dist.png)
 
 ## INSIGHTS
 1. Customers from the manufacturing and financial sectors have been the greatest contributors to sales volume for the company. New customers from these sectors should definitely be targeted.
